@@ -1,0 +1,14 @@
+<ol></ol>
+-type="a", menggunakan huruf kecil sebagai penanda list
+-type="A", mengunakan huruf besar sebagai penanda list
+-type="i", menggunakan angka romawi kecil sebagai penanda list
+-type="I", menggunakan angka romawi besar sebagai penanda list
+-type="1", menggunakan angka desimal sebagai penanda list, 
+           ini adalah pilihan jika atribut type tidak di tulis
+
+<ul></ul>
+-type="disc", menggunakan bulatan hitam sebagai penanda list, 
+		  ini adalah pilihan default jika atribut type tidak ditulis
+-type="circle", menggunakan bulatan hitam (dengan isi lingkaran putih) 
+		    sebagai penanda list
+-type="square", menggunakan kotak hitam sebagai penanda list
